@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\controller\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\interfaces\\iautorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\interfaces\\iautorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\repositories\\autorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\entities\\autorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\entities\\autorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\dto\\autorrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\dto\\autorrequisicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\dto\\autorresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\dto\\autorresposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\entities\\livroentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\entities\\livroentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\entities\\emprestimoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\entities\\emprestimoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aula\\source\\repos\\p2-full-stack-2026\\p2-full-stack-2026\\Migrations\\20261110010829_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|c:\\users\\pedro\\onedrive\\desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\migrations\\20261110011747_inicial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F6BF01-9CD7-CF96-C0F0-5E84AD35F6A9}|p2-full-stack-2026\\p2-full-stack-2026.csproj|solutionrelative:p2-full-stack-2026\\migrations\\20261110011747_inicial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Repositories\\AutorRepository.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Repositories\\AutorRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Repositories\\AutorRepository.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Repositories\\AutorRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T20:47:20.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Services\\AutorService.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Services\\AutorService.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Services\\AutorService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T20:00:08.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAutorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Interfaces\\IAutorRepository.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Interfaces\\IAutorRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Interfaces\\IAutorRepository.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Interfaces\\IAutorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T19:43:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutorService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Interfaces\\IAutorService.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Interfaces\\IAutorService.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Interfaces\\IAutorService.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Interfaces\\IAutorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T19:26:54.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Data\\ContextDB.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Data\\ContextDB.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Data\\ContextDB.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Data\\ContextDB.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:48:51.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\appsettings.json",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\appsettings.json",
+              "RelativeToolTip": "p2-full-stack-2026\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T23:48:27.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Controller\\AutorController.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Controller\\AutorController.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Controller\\AutorController.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Controller\\AutorController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T19:45:01.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\AutorEntity.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Entities\\AutorEntity.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\AutorEntity.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Entities\\AutorEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:37:26.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutorRequisicao.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\DTO\\AutorRequisicao.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\DTO\\AutorRequisicao.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\DTO\\AutorRequisicao.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\DTO\\AutorRequisicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T19:34:14.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorResposta.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\DTO\\AutorResposta.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\DTO\\AutorResposta.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\DTO\\AutorResposta.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\DTO\\AutorResposta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T19:34:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\LivroEntity.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Entities\\LivroEntity.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\LivroEntity.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Entities\\LivroEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:38:14.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20261110010829_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\source\\repos\\p2-full-stack-2026\\p2-full-stack-2026\\Migrations\\20261110010829_inicial.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Aula\\source\\repos\\p2-full-stack-2026\\p2-full-stack-2026\\Migrations\\20261110010829_inicial.cs",
+              "ToolTip": "C:\\Users\\Aula\\source\\repos\\p2-full-stack-2026\\p2-full-stack-2026\\Migrations\\20261110010829_inicial.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Aula\\source\\repos\\p2-full-stack-2026\\p2-full-stack-2026\\Migrations\\20261110010829_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:08:29.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmprestimoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\EmprestimoEntity.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Entities\\EmprestimoEntity.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Entities\\EmprestimoEntity.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Entities\\EmprestimoEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:38:58.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20261110011747_inicial2.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Migrations\\20261110011747_inicial2.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Migrations\\20261110011747_inicial2.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Migrations\\20261110011747_inicial2.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Migrations\\20261110011747_inicial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T01:17:47.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Program.cs",
+              "RelativeDocumentMoniker": "p2-full-stack-2026\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\p2-full-stack-2026-main\\p2-full-stack-2026\\Program.cs",
+              "RelativeToolTip": "p2-full-stack-2026\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T23:20:15.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
